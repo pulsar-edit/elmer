@@ -1,3 +1,5 @@
+# :lock: Seemingly abandoned so this is archived under Pulsar standards for archival.
+
 # elmer
 
 Experimental view system for atom. Uses [polymer](polymer-project.org) [template binding](https://github.com/Polymer/TemplateBinding) project.
